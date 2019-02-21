@@ -17,7 +17,7 @@
     "jquery": "^3.1.1",
     "jquery-ui": "^1.10.5",
     "modernizr": "^3.3.1",
-    "tinymce": "^4.3.8",
+    "tinymce": "^5.0.1",
     "underscore": "^1.8.3",
     "winjs": "^4.4.0"
   }
